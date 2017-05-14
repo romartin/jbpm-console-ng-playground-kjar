@@ -94,7 +94,7 @@
         <dc:Bounds height="48.0" width="136.0" x="453.0" y="415.0"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="_G8y2BzjgEee6mYFYg7zuRw" bpmnElement="18BCD107-1F95-4C13-96ED-8A2C75356936">
-        <dc:Bounds height="14.0" width="14.0" x="148.0" y="238.0"/>
+        <dc:Bounds height="28.0" width="28.0" x="148.0" y="238.0"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="_G8y2CDjgEee6mYFYg7zuRw" bpmnElement="ED28A38E-E3AD-4846-ACD9-3DB0D97529DC">
         <dc:Bounds height="250.0" width="450.0" x="436.0" y="4.0"/>
